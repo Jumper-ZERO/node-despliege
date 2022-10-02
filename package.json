@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Un curso sobre node y despliege del curso de fazt-code",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "nodemon src/index.js"
   },
