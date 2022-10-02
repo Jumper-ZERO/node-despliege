@@ -1,0 +1,20 @@
+{
+  "name": "despliege-node",
+  "version": "1.0.0",
+  "description": "Un curso sobre node y despliege del curso de fazt-code",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "node",
+    "javascript"
+  ],
+  "author": "Jeremi Aron <chancanjeremiaron@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0"
+  }
+}
